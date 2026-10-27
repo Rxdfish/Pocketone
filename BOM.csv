@@ -1,6 +1,4 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"Item","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
 "C1,C2,C4,C17,C18,C19","6","100nF","","","","","${EXCLUDE_FROM_POS_FILES}","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",""
 "C3","1","470uF","","","","","${EXCLUDE_FROM_POS_FILES}","Capacitor_THT:CP_Radial_D8.0mm_P3.50mm",""
 "C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16","12","100n","","","","","${EXCLUDE_FROM_POS_FILES}","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",""
@@ -21,3 +19,4 @@ Estimated total shipping,1,,,$0.00,
 "U4,U5","2","MPR121 BREAKOUT","","","","","${EXCLUDE_FROM_POS_FILES}","MIDI_Keypad:Adafruit_MPR121_STEMMA_QT","https://learn.adafruit.com/adafruit-mpr121-12-key-capacitive-touch-sensor-breakout-tutorial"
 "U6","1","74AHCT1G125","","","","","${EXCLUDE_FROM_POS_FILES}","Package_TO_SOT_SMD:SOT-23-5","http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf"
 "U7","1","Conn_01x04","","","","","${EXCLUDE_FROM_POS_FILES}","Imported Parts 2:Display_128x64_096_I2C",""
+Estimated total shipping,1,,,$0.00,
