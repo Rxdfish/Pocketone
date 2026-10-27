@@ -5,7 +5,7 @@ Item,Qty,value,Supplier,Cost/item,Total Cost,Link
 "D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12","12","SK6812MINI-E","$","","",""
 "ENC1,ENC2","2","RotaryEncoder_Switch_MP","$","","",""
 "F1","1","Polyfuse","$","","",""
-"J1","1","CAPACITIVE TOUCH BUTTONS""$","","",""
+"J1","1","CAPACITIVE TOUCH BUTTONS","$","","",""
 "J2,J3,J4,J5,J6,J7,J8,J9","8","Conn_01x02","$","","",""
 "R1,R2,R3,R4,R5,R6,R7,R8","8","10k","$","","",""
 "R9","1","330 O","$","","",""
