@@ -1,2 +1,25 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
+Item,Reference,value,Qty,Supplier,Cost/item,Total Cost,link
+"C1,C2,C4,C17,C18,C19","6","100nF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"""
+"C3","1","470uF","Capacitor_THT:CP_Radial_D8.0mm_P3.50mm",""
+"C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16","12","100n","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",""
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12","12","SK6812MINI-E","LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount","https://www.lcsc.com/datasheet/C5149201.pdf"
+"ENC1,ENC2","2","RotaryEncoder_Switch_MP","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",""
+"F1","1","Polyfuse","Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder",""
+"J1","1","CAPACITIVE TOUCH BUTTONS","MIDI_Keypad:TouchKeys_1Octave",""
+"J2,J3,J4,J5,J6,J7,J8,J9","8","Conn_01x02","MIDI_Keypad:FSR402_Pad_22mm",""
+"R1,R2,R3,R4,R5,R6,R7,R8","8","10k","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",""
+"R9","1","330 O","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",""
+"R14,R15","2","4.7kO","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",""
+"RV1,RV2,RV3","3","Slider","Potentiometer_THT:Potentiometer_Bourns_PTA4543_Single_Slide",""
+"SW1,SW2,SW3","3","SW_Push","Hackclub Footprints:Kailh Choc Low-Profile Switches",""
+"SW4,SW5,SW6,SW7,SW8","5","SW_Push","Button_Switch_THT:SW_PUSH_6mm",""
+"U1","1","Waveshare ESP32-S3-ZERO","Hackclub Footprints:Waveshare ESP32-S3-Zero",""
+"U2","1","MCP23017x-x-SO","Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm","https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP23017-Data-Sheet-DS20001952.pdf"
+"U3","1","CD74HC4067M","Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm","http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf"
+"U4,U5","2","MPR121 BREAKOUT","MIDI_Keypad:Adafruit_MPR121_STEMMA_QT","https://learn.adafruit.com/adafruit-mpr121-12-key-capacitive-touch-sensor-breakout-tutorial"
+"U6","1","74AHCT1G125","Package_TO_SOT_SMD:SOT-23-5","http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf"
+"U7","1","Conn_01x04","Imported Parts 2:Display_128x64_096_I2C",""
+
+
+
 Estimated total shipping,1,,,$0.00,
