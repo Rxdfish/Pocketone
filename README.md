@@ -1,6 +1,6 @@
 # Pocketone
 A compact midi board that fits into any pocket and still has a lot of features 
-![Lunarbie](Images/Lunarbie_PCB_bare.PNG)
+![Lunarbie](Images/MIDI2.PNG)
 
 
 Inspiration came from this Repo with brilliant tutorial: [have a look]([https://github.com/SharKingStudios/Starbie/tree/main](https://github.com/KaiPereira/MIDI-Keypad/blob/master/README.md))
@@ -25,21 +25,18 @@ Via the [Half life](https://halflife.hackclub.com) by Hackclub programm, several
 
 # Assembly
 
-![Lunarbie](Images/Render.PNG)
+![Lunarbie](Images/MIDI_PCB.PNG)
 The assembly should be quite beginnerfriendly. The board itself has not many part and is partly prefabricated. All remaining components are easy to be soldered by hand.
 
 # Schematic and components
 
-![Lunarbie](Images/Schematic.PNG)
+![Lunarbie](Images/MIDI_SCHEMATIC.PNG)
 The board is powered by the Waveshare ESP32-S3-ZERO. It provides the power and data connector with an onboard USB-receptacle. The board also features a keyboard in form of capacitive sensors and a small OLED display. Furthermore it has 3 fader sliders and 8 preassure sensor pads. Everything is made possible by an GPIO expander and a MUX.
 
 # PCB
 
-![Lunarbie](Images/Routing.PNG)
+![Lunarbie](Images/MIDI2.PNG)
 The PCB is a simple 2 layer PCB. NOthing special about it 
-
-closeup
-![Lunarbie](Images/Routing_closeup.PNG)
 
 # Firmware
 
