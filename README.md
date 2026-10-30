@@ -47,3 +47,6 @@ Sadly there is no firmware yet.
 This is the funding BOM but there is another BOM for all parts and the PCB manufacturing, which is out of budget unfortuenately.
 
 ![smth no workiy :C](IMAGES/BOM2.PNG)
+
+PCB manuf. 
+price: 19.30$
